@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_image.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\shape_image.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_bg.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\edit_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirm_btn_bg.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\confirm_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_close_button.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\login_close_button.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\complete_btn_bg.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\complete_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_btn_selector.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\login_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\receive_btn_bg.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\receive_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_checkbox_selector.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable\\login_checkbox_selector.xml"
+    }
+]

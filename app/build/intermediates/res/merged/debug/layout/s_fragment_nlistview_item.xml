@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 新服务 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sicon"
+    android:gravity="center"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/n_num"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/s_fragment_nlistview_zth"
+        android:textSize="14sp"
+        android:textColor="@color/red"
+        android:textStyle="bold" 
+        android:paddingTop="5dp"/>
+
+    <ImageView
+        android:id="@+id/n_type_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:background="@color/hyaline"/>
+
+    <TextView
+        android:id="@+id/n_time"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:text="@string/s_fragment_nlistview_sj" 
+        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:paddingBottom="5dp"/>
+</LinearLayout>

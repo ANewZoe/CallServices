@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_line.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_line.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_close_button_nor.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_close_button_nor.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_close_button_over.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_close_button_over.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_button.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_button_press.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_button_press.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_checkbox_unselected.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_checkbox_unselected.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_checkbox_selected.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_user_table_bg.9.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-hdpi\\login_user_table_bg.9.png"
+    }
+]

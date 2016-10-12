@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">呼叫服务</string>
+    <string name="UserID">账号:</string>
+    <string name="action_settings">Settings</string>
+    <string name="PassWord">密码:</string>
+    <string name="remember">记住密码</string>
+    <string name="userID">请输入账号</string>
+    <string name="input_pwd">请输入密码</string>
+    <string name="input_username">请输入账号</string>
+    <string name="set_popwindow_pswd">修改密码</string>
+    <string name="reset_pswd_backbtn">返回</string>
+    <string name="reset_pswd_jmm">旧密码</string>
+    <string name="reset_pswd_hintjmm">请输入旧密码</string>
+    <string name="reset_pswd_xmm">新密码</string>
+    <string name="reset_pswd_hintxmm">请输入新密码</string>
+    <string name="reset_pswd_xmmqr">确认密码</string>
+    <string name="reset_pswd_hintxmmqr">请再次输入新密码</string>
+    <string name="reset_pswd_btn">确认</string>
+    <string name="u_layout_userid">ID:10018</string>
+    <string name="u_layout_nickname">姓名:张三</string>
+    <string name="u_layout_seva">服务评价：0</string>
+    <string name="u_layout_scount">服务次数：0</string>
+    <string name="u_layout_setbtn">设置</string>
+    <string name="entryactivity_seturl">设置ip地址</string>
+    <string name="s_fragment_dlistview_zth">桌台号</string>
+    <string name="s_fragment_dlistview_nr">內容</string>
+    <string name="s_fragment_dlistview_sj">时间</string>
+    <string name="s_fragment_dlistview_wcfw">完成服务</string>
+    <string name="s_fragment_hlistview_zth">桌台号</string>
+    <string name="s_fragment_hlistview_nr">內容</string>
+    <string name="s_fragment_hlistview_sj">时间</string>
+    <string name="s_fragment_hlistview_ls">历史</string>
+    <string name="s_fragment_nlistview_zth">桌台号</string>
+    <string name="s_fragment_nlistview_nr">內容</string>
+    <string name="s_fragment_nlistview_sj">时间</string>
+    <string name="s_layout_zth">桌台号</string>
+    <string name="s_layout_fwnr">服务內容</string>
+    <string name="s_layout_sj">等待时间</string>
+    <string name="s_layout_wcfw">完成服务</string>
+    <string name="set_popwindow_exit">退出</string>
+    <string name="set_popwindow_setpswd">修改密码</string>
+    <string name="set_popwindow_update">版本更新</string>
+
+</resources>

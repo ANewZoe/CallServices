@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/red"
+        android:orientation="vertical">
+        <Button 
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:background="@color/red"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/reset_pswd_backbtn"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+         <TextView 
+            android:id="@+id/topbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/set_popwindow_pswd"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="15dp"
+            android:text="@string/reset_pswd_jmm"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <EditText 
+            android:id="@+id/former_pswd" 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginRight="15dp"
+            android:hint="@string/reset_pswd_hintjmm"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:background="@drawable/edit_bg"
+            android:password="true"/>
+    </LinearLayout>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="15dp"
+            android:text="@string/reset_pswd_xmm"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <EditText 
+            android:id="@+id/new_pswd" 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginRight="15dp"
+            android:hint="@string/reset_pswd_hintxmm"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:background="@drawable/edit_bg"
+            android:password="true"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="15dp"
+            android:text="@string/reset_pswd_xmmqr"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+        <EditText 
+            android:id="@+id/new_pswdqr" 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_marginRight="15dp"
+            android:hint="@string/reset_pswd_hintxmmqr"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:background="@drawable/edit_bg"
+            android:password="true"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp">
+        <Button
+            android:id="@+id/acknow_btn"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center" 
+            android:background="@drawable/confirm_btn_bg"
+            android:text="@string/reset_pswd_btn"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+    
+</LinearLayout>

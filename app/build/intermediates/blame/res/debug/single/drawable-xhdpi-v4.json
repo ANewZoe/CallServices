@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_bg.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\user_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sline_unselected.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\sline_unselected.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pswd_entersecret.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\pswd_entersecret.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_logo.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\default_logo.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\account_user.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\account_user.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\d_service.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\d_service.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_img.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\default_img.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\n_service.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\n_service.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_bg.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setip.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\setip.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\h_service.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\h_service.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tabwidget_bg.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\tabwidget_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grab_btn.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\grab_btn.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sicon.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\sicon.png"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext.png",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\drawable-xhdpi\\edittext.png"
+    }
+]

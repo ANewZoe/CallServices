@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:1:1-73:12
+	package
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:23:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:30:22-78
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:32:22-85
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:33:5-84
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:33:22-82
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:35:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:36:22-78
+application
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:41:5-71:19
+	android:label
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:45:9-41
+	android:allowBackup
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:44:9-45
+	android:theme
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:46:9-40
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:42:9-60
+activity#com.jieshoufuwu.activity.EntryActivity
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:screenOrientation
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:48:13-63
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:47:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.jieshoufuwu.activity.MainActivity
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:56:11-58:51
+	android:screenOrientation
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:58:13-49
+	android:configChanges
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:57:13-63
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:56:21-73
+activity#com.jieshoufuwu.activity.SetpswdActivity
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:59:11-61:51
+	android:screenOrientation
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:60:13-63
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:59:21-76
+receiver#com.jieshoufuwu.assist.BootStrapbroadcastreceiver
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:65:11-70:22
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:65:21-85
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:66:15-69:31
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:67:19-80
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:67:27-78
+category#android.intent.category.DEFAULT
+ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:68:19-77
+	android:name
+		ADDED from D:\workspace\CallServices\app\src\main\AndroidManifest.xml:68:29-75

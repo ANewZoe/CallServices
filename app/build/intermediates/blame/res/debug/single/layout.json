@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainactivity.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\mainactivity.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entryactivity.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\entryactivity.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\s_fragment_dlistview_item.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\s_fragment_dlistview_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\u_layout.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\u_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\s_layout.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\s_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\servicedialog.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\servicedialog.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\s_fragment_hlistview_item.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\s_fragment_hlistview_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\s_fragment_nlistview_item.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\s_fragment_nlistview_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset_pswd.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\reset_pswd.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\s_fragment_listview.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\s_fragment_listview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CallServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_popwindow.xml",
+        "source": "D:\\workspace\\CallServices\\app\\src\\main\\res\\layout\\set_popwindow.xml"
+    }
+]

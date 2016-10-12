@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" 
+    android:background="@drawable/user_bg">
+
+    <!-- 服务员个人信息 -->
+    
+
+<ImageView
+    android:id="@+id/user_image"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/default_logo" 
+    android:layout_gravity="center_vertical"
+    android:layout_marginLeft="10dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/user_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/u_layout_userid"
+            android:textColor="@color/white" 
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/u_layout_nickname" 
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+ 
+    <!-- 评价信息 -->
+
+ 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/s_evaluation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/u_layout_seva"
+            android:textColor="@color/hyaline" 
+            android:textSize="12sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/s_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/u_layout_scount" 
+            android:textColor="@color/hyaline"
+            android:textSize="12sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+    
+
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <Button
+        android:id="@+id/setting_btn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="20dp"
+        android:text="@string/u_layout_setbtn" 
+        android:background="@drawable/setip"
+        android:textColor="@color/hyaline"/>
+    </LinearLayout>
+
+</LinearLayout>

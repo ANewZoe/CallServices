@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#2B2B2B</color>
+    <color name="black01">#383838</color>
+    <color name="blue">#1E90FF</color>
+    <color name="blue_01">#ceebf9</color>
+    <color name="gray">#C9C9C9</color>
+    <color name="gray_01">#A3A3A3</color>
+    <color name="gray_02">#F4F4F4</color>
+    <color name="green">#00CD00</color>
+    <color name="hyaline">#00A3A3A3</color>
+    <color name="orange">#EE9A00</color>
+    <color name="red">#EE2C2C</color>
+    <color name="red_01">#F08080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFD700</color>
+    <dimen name="lrc_bottom_height">80dp</dimen>
+    <dimen name="space_3">3dip</dimen>
+    <dimen name="space_5">5dip</dimen>
+    <string name="PassWord">密码:</string>
+    <string name="UserID">账号:</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">呼叫服务</string>
+    <string name="entryactivity_seturl">设置ip地址</string>
+    <string name="input_pwd">请输入密码</string>
+    <string name="input_username">请输入账号</string>
+    <string name="remember">记住密码</string>
+    <string name="reset_pswd_backbtn">返回</string>
+    <string name="reset_pswd_btn">确认</string>
+    <string name="reset_pswd_hintjmm">请输入旧密码</string>
+    <string name="reset_pswd_hintxmm">请输入新密码</string>
+    <string name="reset_pswd_hintxmmqr">请再次输入新密码</string>
+    <string name="reset_pswd_jmm">旧密码</string>
+    <string name="reset_pswd_xmm">新密码</string>
+    <string name="reset_pswd_xmmqr">确认密码</string>
+    <string name="s_fragment_dlistview_nr">內容</string>
+    <string name="s_fragment_dlistview_sj">时间</string>
+    <string name="s_fragment_dlistview_wcfw">完成服务</string>
+    <string name="s_fragment_dlistview_zth">桌台号</string>
+    <string name="s_fragment_hlistview_ls">历史</string>
+    <string name="s_fragment_hlistview_nr">內容</string>
+    <string name="s_fragment_hlistview_sj">时间</string>
+    <string name="s_fragment_hlistview_zth">桌台号</string>
+    <string name="s_fragment_nlistview_nr">內容</string>
+    <string name="s_fragment_nlistview_sj">时间</string>
+    <string name="s_fragment_nlistview_zth">桌台号</string>
+    <string name="s_layout_fwnr">服务內容</string>
+    <string name="s_layout_sj">等待时间</string>
+    <string name="s_layout_wcfw">完成服务</string>
+    <string name="s_layout_zth">桌台号</string>
+    <string name="set_popwindow_exit">退出</string>
+    <string name="set_popwindow_pswd">修改密码</string>
+    <string name="set_popwindow_setpswd">修改密码</string>
+    <string name="set_popwindow_update">版本更新</string>
+    <string name="u_layout_nickname">姓名:张三</string>
+    <string name="u_layout_scount">服务次数：0</string>
+    <string name="u_layout_setbtn">设置</string>
+    <string name="u_layout_seva">服务评价：0</string>
+    <string name="u_layout_userid">ID:10018</string>
+    <string name="userID">请输入账号</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

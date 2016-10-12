@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\workspace\CallServices\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="D:\workspace\CallServices\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\workspace\CallServices\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_cf947bbcc688f4a28ba23d7cb08da4404238aa96.jar" />
+    </item>
+    <item
+        jar="D:\workspace\CallServices\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4499f115c3f2e52dff1d30aae5cfed9aafac3a63">
+        <dex dex="D:\workspace\CallServices\app\build\intermediates\pre-dexed\debug\Msc_4453b73218b03192bf3378ee528161cd5ca902db.jar" />
+    </item>
+
+</items>
